@@ -14,7 +14,7 @@ import java.util.Scanner;
  * NAMA : Niko Yama
  * KELAS : PBO2
  * NIM : 10118048
- * Deskripsi program :
+ * Deskripsi program : menampilkan nilai mahasiswa yang terbesar dan terkecil
  */
 public class NilaiMahasiswa {
     

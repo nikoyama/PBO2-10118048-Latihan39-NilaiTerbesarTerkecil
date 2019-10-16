@@ -12,7 +12,7 @@ package pbo2.pkg10118048.latihan39.nilaiterbesarterkecil;
  * NAMA : Niko Yama
  * KELAS : PBO2
  * NIM : 10118048
- * Deskripsi program : 
+ * Deskripsi program : menampilkan nilai mahasiswa yang terbesar dan terkecil
  */
 public class PBO210118048Latihan39NilaiTerbesarTerkecil {
 
